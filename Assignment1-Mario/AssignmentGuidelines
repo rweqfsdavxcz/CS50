@@ -1,0 +1,14 @@
+#Assignment
+Create the classic pyramid from Super Mario.
+
+   # #
+  ## ##
+ ### ###
+#### ####
+
+This shape is created after prompting the user for a height.
+
+##Resitrictions
+1. Input height is restricted to 1 to 8 inclusive.
+2. Re-prompt user for height if the first number is outside of this range.
+3. Re-prompt user for height if a character, string, or space is give.
