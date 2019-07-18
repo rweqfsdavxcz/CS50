@@ -1,0 +1,14 @@
+#Assignment
+Write a code to identify if a number input by a user is an American Express card, MasterCard, or a Visa card.  Luhn's Algorithm is used to identify whether a collection of numbers can be a valid credit card number.
+
+##American Express
+1. Has 15 digits
+2. Begin with either 34 or 37
+
+##MasterCard
+1. Has 16 digits
+2. Begins with 51, 52, 53, 54, or 55 (ignoring others)
+
+##Visa
+1. Has either 13 or 16 digits
+2. Begins with 4
