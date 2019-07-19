@@ -1,0 +1,9 @@
+#Assignment
+Create Caesar's cipher, a basic alphabetical shift, based on a shift key.  For example, the phrase "Hello!" with a key of 2 would "Jgnnq!"  The user inputs the key as a command line argument and enters the phrase to be shifted inside the program.  The alphabet is toroidal in that after 'Z' you wrap around again to 'A' and continue the shift.
+
+#Restrictions
+1. Only numeric inputs
+2. No empty command lines
+3. No extra command line entries
+4. Case is preserved.
+5. Punctuation characters and spaces are preserved.
